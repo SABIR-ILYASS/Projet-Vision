@@ -45,6 +45,15 @@ The application consists of **3 pages**:
 - The video appears in the model so that the user can visualize the follow-up of the persons and start the treatment.  
 - The 3rd interface allows to display the statistics and some additional features.
 
+**Application logo:**
+<img style="float: left" width="100%" height="100" alt="TSE"  src="https://github.com/SABIR-ILYASS/Projet-Vision/blob/main/Maquette/logo.png">
+
+**Interfaces:**
+
+<img align="left" alt="interface1" width="30%" src="https://github.com/SABIR-ILYASS/Projet-Vision/blob/main/Maquette/interface1.png">
+<img align="center" alt="interface2" width="30%" src="https://github.com/SABIR-ILYASS/Projet-Vision/blob/main/Maquette/interface2.png">
+<img align="right" alt="interface3" width="30%" src="https://github.com/SABIR-ILYASS/Projet-Vision/blob/main/Maquette/interface3.png">
+
 ##  Technologies:
 
 - <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/> </a>
