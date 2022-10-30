@@ -50,9 +50,20 @@ The application consists of **3 pages**:
 
 **Interfaces:**
 
-<img align="left" alt="interface1" width="30%" src="https://github.com/SABIR-ILYASS/Projet-Vision/blob/main/Maquette/interface1.png">
-<img align="center" alt="interface2" width="30%" src="https://github.com/SABIR-ILYASS/Projet-Vision/blob/main/Maquette/interface2.png">
-<img align="right" alt="interface3" width="30%" src="https://github.com/SABIR-ILYASS/Projet-Vision/blob/main/Maquette/interface3.png">
+<div>
+<img src="https://github.com/SABIR-ILYASS/Projet-Vision/blob/main/Maquette/interface1.png" 
+        alt="Picture" 
+        width="33%"  
+        style="display: block; margin: 0 auto" />
+<img src="https://github.com/SABIR-ILYASS/Projet-Vision/blob/main/Maquette/interface2.png" 
+        alt="Picture" 
+        width="33%"  
+        style="display: block; margin: 0 auto" />
+<img src="https://github.com/SABIR-ILYASS/Projet-Vision/blob/main/Maquette/interface3.png" 
+        alt="Picture" 
+        width="33%" 
+        style="display: block; margin: 0 auto" />
+</div>
 
 ##  Technologies:
 
