@@ -46,7 +46,7 @@ The application consists of **3 pages**:
 - The 3rd interface allows to display the statistics and some additional features.
 
 **Application logo:**
-<img style="float: left" width="100%" height="100" alt="TSE"  src="https://github.com/SABIR-ILYASS/Projet-Vision/blob/main/Maquette/logo.png">
+<img style="float: left" width="100" height="100" alt="TSE"  src="https://github.com/SABIR-ILYASS/Projet-Vision/blob/main/Maquette/logo.png">
 
 **Interfaces:**
 
