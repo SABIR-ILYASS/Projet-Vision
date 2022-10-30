@@ -1,4 +1,4 @@
-![Alt text](https://www.telecom-st-etienne.fr/wp-content/themes/telecom/asset/images/logo.svg)
+<img style="float: left" width="100%" height="100" alt="TSE"  src="https://www.telecom-st-etienne.fr/wp-content/themes/telecom/asset/images/logo.svg">
 # Vision project: Desktop application for tracking and detecting people.
 
 
@@ -32,3 +32,12 @@ The application must respect the following main points:
 **Estimate the distances between people:**
 - Determining the distances between each pair of people. 
 In the context of respecting sanitary precautionary measures for example.
+
+The following features will be implemented in the project:
+ A button to import the video.
+A pause/resume video button.
+A user help button.
+A button to show/hide speed vectors.
+A statistics button.
+
+
