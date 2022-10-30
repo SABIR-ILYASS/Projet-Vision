@@ -46,21 +46,28 @@ The application consists of **3 pages**:
 - The 3rd interface allows to display the statistics and some additional features.
 
 **Application logo:**
-<img style="float: left" width="100" height="100" alt="TSE"  src="https://github.com/SABIR-ILYASS/Projet-Vision/blob/main/Maquette/logo.png">
+<div>
+<center>
+<img src="https://github.com/SABIR-ILYASS/Projet-Vision/blob/main/Maquette/logo.png" 
+        alt="logo" 
+        width="33%"
+        style="display: block; margin: 0 auto" />
+</center>
+</div>
 
 **Interfaces:**
 
 <div>
 <img src="https://github.com/SABIR-ILYASS/Projet-Vision/blob/main/Maquette/interface1.png" 
-        alt="Picture" 
+        alt="interface1" 
         width="33%"  
         style="display: block; margin: 0 auto" />
 <img src="https://github.com/SABIR-ILYASS/Projet-Vision/blob/main/Maquette/interface2.png" 
-        alt="Picture" 
+        alt="interface2" 
         width="33%"  
         style="display: block; margin: 0 auto" />
 <img src="https://github.com/SABIR-ILYASS/Projet-Vision/blob/main/Maquette/interface3.png" 
-        alt="Picture" 
+        alt="interface3" 
         width="33%" 
         style="display: block; margin: 0 auto" />
 </div>
