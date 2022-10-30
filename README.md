@@ -79,4 +79,8 @@ The application consists of **3 pages**:
 - <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="40" height="40"/> </a>
 - <a href="https://pypi.org/project/PySide/" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Pyside.png" alt="PySide" width="40" height="40"/> </a> 
 
+## Methods to implement in image processing:
+- Kalman filter.
+- PPM (Point Process Model)
+- YOLO (You Only Look Once)
 
