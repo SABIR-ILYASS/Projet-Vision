@@ -60,15 +60,15 @@ The application consists of **3 pages**:
 <div>
 <img src="https://github.com/SABIR-ILYASS/Projet-Vision/blob/main/Maquette/interface1.png" 
         alt="interface1" 
-        width="33%"  
+        width="30%"  
         style="display: block; margin: 0 auto" />
 <img src="https://github.com/SABIR-ILYASS/Projet-Vision/blob/main/Maquette/interface2.png" 
         alt="interface2" 
-        width="33%"  
+        width="30%"  
         style="display: block; margin: 0 auto" />
 <img src="https://github.com/SABIR-ILYASS/Projet-Vision/blob/main/Maquette/interface3.png" 
         alt="interface3" 
-        width="33%" 
+        width="30%" 
         style="display: block; margin: 0 auto" />
 </div>
 
