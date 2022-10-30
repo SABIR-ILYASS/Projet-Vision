@@ -34,10 +34,22 @@ The application must respect the following main points:
 In the context of respecting sanitary precautionary measures for example.
 
 The following features will be implemented in the project:
- A button to import the video.
-A pause/resume video button.
-A user help button.
-A button to show/hide speed vectors.
-A statistics button.
+- A button to import the video.
+- A pause/resume video button.
+- A user help button.
+- A button to show/hide speed vectors.
+- A statistics button.
+
+The application consists of **3 pages**:  
+- The first interface allows the user to import a video that will be analyzed later.  
+- The video appears in the model so that the user can visualize the follow-up of the persons and start the treatment.  
+- The 3rd interface allows to display the statistics and some additional features.
+
+##  Technologies:
+
+- <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/> </a>
+- <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> </a>
+- <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="40" height="40"/> </a>
+- <a href="https://pypi.org/project/PySide/" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Pyside.png" alt="PySide" width="40" height="40"/> </a> 
 
 
