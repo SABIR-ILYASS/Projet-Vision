@@ -1,4 +1,5 @@
 <img style="float: left" width="100%" height="100" alt="TSE"  src="https://www.telecom-st-etienne.fr/wp-content/themes/telecom/asset/images/logo.svg">
+
 # Vision project: Desktop application for tracking and detecting people.
 
 
