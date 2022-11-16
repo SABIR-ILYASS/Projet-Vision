@@ -29,7 +29,7 @@ class Video(object):
             ret, frame = cap.read()
             if ret:
                 if wait % self.fps == 0:
-                    cv.imwrite("frames/frame%d.jpg" % count, frame)
+                    cv.imwrite("C:/Users/sabir/Desktop/Projet-Vision/frames/frame%d.jpg" % count, frame)
                     count += 1
 
                 # Display the resulting frame
@@ -52,6 +52,6 @@ class Video(object):
 
 
 
-video1 = Video('C:/Users/sabir/Desktop/Projet-Vision/video1.mp4', 100)
+video1 = Video('C:/Users/sabir/Desktop/Projet-Vision/Data/video1.mp4', 100)
 video1.read_video()
 

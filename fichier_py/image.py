@@ -1,21 +1,22 @@
-import cv2
+import cv2 as cv
 class Image(object):
     def __init__(self, URL):
         self.URL = URL
+        self.img = cv.imread(self.URL)
 
-
-
-    def read_image(self):
-        # Read RGB image
-        img = cv2.imread(self.URL)
+    def show_image(self):
         # Output img with window name as 'image'
-        cv2.imshow('image', img)
+        cv.imshow('image', self.img)
         # Maintain output window utill
         # user presses a key
-        cv2.waitKey(0) 
+        cv.waitKey(0)
+    def resize_image(self, h, w):
 
-image1 = Image('C:/Users/SUPER ELectro/Desktop/Projet-Vision\Maquette/interface1.png')
-image1.read_image()
+        self.img = cv.resize(self.img, (h,w), interpolation = cv.INTER_AREA)
+
+image1 = Image('C:/Users/sabir/Desktop/Projet-Vision/Maquette/interface1.png')
+image1.show_image()
+
 
 
 
