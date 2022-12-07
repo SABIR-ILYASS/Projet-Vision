@@ -52,6 +52,6 @@ class Video(object):
 
 
 
-video1 = Video('C:/Users/sabir/Desktop/Projet-Vision/Data/video1.mp4', 100)
+video1 = Video('../Data/video1.mp4', 100)
 video1.read_video()
 

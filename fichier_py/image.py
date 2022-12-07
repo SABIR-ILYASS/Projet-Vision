@@ -14,7 +14,7 @@ class Image(object):
 
         self.img = cv.resize(self.img, (h,w), interpolation = cv.INTER_AREA)
 
-image1 = Image('C:/Users/sabir/Desktop/Projet-Vision/Maquette/interface1.png')
+image1 = Image('../Maquette/interface1.png')
 image1.show_image()
 
 
