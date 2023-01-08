@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 from Image import Image
 import cv2
 import imutils
@@ -28,14 +28,9 @@ class Detector:
 
         cv2.destroyAllWindows()
 
-path = "C:/Users/sabir/Desktop/Projet-Vision/frames/frame8.jpg"
+path = "C:/Users/SUPER ELectro/Desktop/Projet-Vision/frames/frame8.jpg"
 img = Image(path)
 detect = Detector(img.get_image())
 detect.detector()
 detect.show_image()
 
-=======
-
-class Detector:
-    def __init__(self):
->>>>>>> 3fbac91162b2a3577839f0383112b5e405942680
